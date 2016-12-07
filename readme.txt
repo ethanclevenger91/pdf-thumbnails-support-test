@@ -13,7 +13,7 @@ Determine if your server is missing software for WordPress 4.7's native PDF thum
 
 This will quickly tell your server has all the software installed to take advantage of WordPress 4.7's built-in PDF thumbnail generation. Some plugins may shim the functionality in other ways. This test only concerns the native WordPress functionality.
 
-From [Sterner Stuff Design](https://sternerstuffdesign).
+From [Sterner Stuff Design](https://sternerstuffdesign.com).
 
 Tests:
 * ImageMagick
