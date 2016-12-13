@@ -3,7 +3,7 @@
 **Tags:** pdf, thumbnail, media, attachments  
 **Requires at least:** 4.0  
 **Tested up to:** 4.7  
-**Stable tag:** 1.0  
+**Stable tag:** 1.0.1  
 **License:** GPLv2 or later  
 **License URI:** https://www.gnu.org/licenses/gpl-2.0.html  
 
@@ -54,6 +54,11 @@ Update your WordPress, either yourself or by contacting your website provider. W
 
 
 ## Changelog 
+
+
+### 1.0.1 
+
+* All kinds of object-oriented
 
 
 ### 1.0 

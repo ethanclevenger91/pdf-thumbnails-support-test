@@ -3,7 +3,7 @@
 Plugin Name: PDF Thumbnails Support Test
 Plugin URI:
 Desription: Determine if your server is missing software for WordPress 4.7's native PDF thumbnail generator
-Version: 1.0.0
+Version: 1.0.1
 Author: Ethan Clevenger / Sterner Stuff Design
 Author URI: https://sternerstuffdesign.com
  */
