@@ -1,0 +1,36 @@
+{
+  "name": "ethanclevenger91/pdf-thumbnails-support-test",
+  "type": "wordpress-plugin",
+  "keywords": [
+    "wordpress",
+    "plugin",
+    "pdf"
+  ],
+  "license": "GPLv2",
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "https://github.com/ethanclevenger91/pdf-thumbnails-support-test"
+    }
+  ],
+  "authors": [
+    {
+      "name": "Ethan Clevenger",
+      "email": "ethan.c.clevenger@gmail.com",
+      "homepage": "https://ethanclevenger.com"
+    }
+  ],
+  "prefer-stable": true,
+  "require": {
+    "composer/installers": "^1.0",
+    "php": ">=5.3"
+  },
+  "autoload": {
+    "psr-4": {
+      "Eclev\\PdfThumbnailsTest\\": "src/PdfThumbnailsTest/"
+    },
+    "classmap": [
+      "vendor/"
+    ]
+  }
+}
