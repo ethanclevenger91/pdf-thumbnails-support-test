@@ -1,7 +1,7 @@
 # PDF Thumbnails Support Test 
 **Contributors:** eclev91  
 **Tags:** pdf, thumbnail, media, attachments  
-**Requires at least:** 4.0  
+**Requires at least:** 4.7
 **Tested up to:** 4.9.5
 **Stable tag:** 1.0.1  
 **License:** GPLv2 or later  
