@@ -11,7 +11,7 @@ class Imagick extends SoftwareAbstract {
   public $actionMessage = 'Contact your host to install the missing software below';
 
   protected function runTest() {
-    if(extension_loaded('imagick')) {
+    if(extension_loaded('imagick') && class_exists('Imagick')) {
       return true;
     }
     return false;
