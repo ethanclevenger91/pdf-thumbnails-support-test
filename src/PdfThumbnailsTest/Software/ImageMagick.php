@@ -11,11 +11,8 @@ class ImageMagick extends SoftwareAbstract {
   public $actionMessage = 'Contact your host to install the missing software below';
 
   protected function runTest() {
-    $result = `convert -v`;
-    if(strpos($result, 'Version') !== false && strpos($result, 'Version') == 0) {
-      return true;
-    }
-    return false;
+    $imagick = new Imagick();
+    return $imagick->getPackageName() == 'ImageMagick';
   }
 
 }
